@@ -1,16 +1,26 @@
-### Hi there 👋
+### Welcome to my profile!
 
-<!--
-**lukeoliveira1/lukeoliveira1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Full-Stack Developer focusing on Spring Boot (Back-End) and ReactJS (Web Front-End).
 
-Here are some ideas to get you started:
+<div>
+    <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=lukeoliveira1&show_icons=true&theme=dracula&count_private=true">
+    <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=lukeoliveira1&layout=compact&theme=dracula">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧰 Toolbox
+  <ul>
+      <li>Front-End with ReactJS</li>
+      <li>Back-End with Spring/Django Rest Framework</li>
+      <li>Database services with SQL</li>
+  </ul>
+  
+ <div>
+    <img height='50em' src='https://cdn.worldvectorlogo.com/logos/java-4.svg'>
+    <img height='50em' src='https://cdn.worldvectorlogo.com/logos/spring-3.svg'>
+    <img height='50em' src='https://cdn.worldvectorlogo.com/logos/django.svg'>
+    <img height='50em' src="https://cdn.worldvectorlogo.com/logos/typescript.svg">
+    <img height='50em' src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg">
+    <img height='50em' src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
+    <img height='50em' src="https://cdn.worldvectorlogo.com/logos/html-1.svg">
+    <img height='50em' src='https://cdn.worldvectorlogo.com/logos/css-3.svg'>
+  </div>
