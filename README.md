@@ -1,6 +1,6 @@
 ### Welcome to my profile!
 
-I am a Full-Stack Developer focusing on Spring Boot (Back-End) and ReactJS (Web Front-End).
+I'm Lucas!
 
 <div>
     <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=lukeoliveira1&show_icons=true&theme=dracula&count_private=true">
@@ -12,6 +12,7 @@ I am a Full-Stack Developer focusing on Spring Boot (Back-End) and ReactJS (Web 
       <li>Front-End with ReactJS</li>
       <li>Back-End with Spring/Django Rest Framework</li>
       <li>Database services with SQL</li>
+      <li>And loading...</li>
   </ul>
   
  <div>
