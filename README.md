@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I'm a graduate in System Analysis and Development
-- 🎓 I'm currently improving my skills in Web Development
+- 🎓 I'm currently improving my skills in Web and Mobile Development
 - 📫 How to reach me: lucasoliveirars22@gmail.com
 
 ##
